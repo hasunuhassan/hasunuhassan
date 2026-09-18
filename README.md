@@ -13,4 +13,6 @@
 
 https://github-readme-stats.vercel.app/api?username=hasunuhassan&theme=merko&hide_border=true&show_icons=true
 
+https://streak-stats.demolab.com?user=hasunuhassan&theme=merko&hide_border=true
+
 https://github-readme-stats.vercel.app/api/top-langs/?username=hasunuhassan&theme=merko&hide_border=true&layout=compact
