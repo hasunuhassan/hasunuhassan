@@ -8,11 +8,9 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
-# 📊 GitHub Stats:
+#**� GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=hasunuhassan&theme=merko&_border=true&show_icons=true
+![](https://gith**dme-stats.vercel.app/api?username**asunuhassan&theme=merko&hide_bord**=true&show_icons=true
 
-![](https://streak-stats.demolab.com?user=hasunuhassan&theme=merko&hide_border=true)
-
-![](https://githubtats.vercel.app/api/top-langs/?username=hasunuhassan&theme=merko&hide_border=true&layout=compact.
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https:**ak-stats.demolab.com?user=hasunuh**san&theme=merko&hide_border=true
+**[](https://github-readme-stats.ve**el.app/api/top-langs/?username**asunuhassan**=merko&hide_border=true&layout=co**act
